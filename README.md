@@ -6,6 +6,7 @@
 <img src="/doc/sensor.jpg" width="500">
 
 # Block Diagram
+<img src="/doc/BlockDiagram.jpg">
 
 # Circuit Diagram
 <img src="/doc/Main Board.png">
